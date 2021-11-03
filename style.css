@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    word-wrap: break-word;
+}
+
+
+.carte {
+display: inline-block;
+align:center;
+border: 2px solid black;
+margin: 30px;
+padding: 30px;
+
+}
+.texte {
+ display: block;
+float: left;
+margin: 10 px;
+padding: 10 px;
+}
+.texte p, h1 {
+padding: 4px;
+text-align: center;
+}
+
+.texte h5 {
+padding-right: 4px;
+text-align: right;
+}
+.photo {
+ border: 2px red;
+display: block;
+float: right;
+margin: auto;
+padding: auto;
+}
